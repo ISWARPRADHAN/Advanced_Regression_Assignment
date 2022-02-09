@@ -5,7 +5,7 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 ## Table of Contents
 * [General Info]
 * [Dataset] (#train.csv)
-* [Technologies Used](#Github,#Jovian,#Jupyterhub)
+* [Technologies Used] (#Github,#Jovian,#Jupyterhub)
 
 
 ## General Information
@@ -21,5 +21,6 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 
 
 ## Contact
+- Github Link https://github.com/ISWARPRADHAN/Advanced_Regression_Assignment 
 Created by [@ISWARPRADHAN] - feel free to contact me!
 
